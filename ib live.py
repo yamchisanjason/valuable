@@ -198,7 +198,6 @@ class IBapi(EWrapper, EClient):
         self.open_orders = []
         self.trade_executed = False
 
-        self.trade_executed = False
 
 
 
